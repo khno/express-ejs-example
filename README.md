@@ -1,5 +1,5 @@
 # express-ejs-example
-服务端渲染之 express 
+服务端渲染之 express ejs 渲染 
 
 ## how to use
 ```
